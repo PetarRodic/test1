@@ -1,5 +1,5 @@
 izmena
-��USE [AdventureWorks]
+USE [AdventureWorks]
 
 GO
 
