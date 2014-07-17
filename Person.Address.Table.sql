@@ -1,4 +1,4 @@
-izmena
+izmena 1
 USE [AdventureWorks]
 
 GO
