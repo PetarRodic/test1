@@ -1,4 +1,4 @@
-dddd izmena 1
+ffffffffffffffff izmena 1
 USE [AdventureWorks]
 
 GO
